@@ -1,2 +1,2 @@
 # NLP-Text-Classification
-Classifying whether or not the comments and suggestions made in health forums are given by healthcare experts or naive users. 
+Classification of comments and suggestions from health care forums  provided by healthcare experts.
